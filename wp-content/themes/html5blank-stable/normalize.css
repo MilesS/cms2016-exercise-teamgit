@@ -120,6 +120,9 @@ h1 {
     font-size: 2em;
     margin: 0.67em 0;
 }
+h3 {
+    color: white;
+}
 
 /**
  * Address styling not present in IE 8/9, Safari 5, and Chrome.
