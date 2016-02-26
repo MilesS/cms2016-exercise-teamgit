@@ -6,6 +6,7 @@
 					&copy; <?php echo date('Y'); ?> Copyright <?php bloginfo('name'); ?>. <?php _e('Powered by', 'html5blank'); ?>
 					<a href="//wordpress.org" title="WordPress">WordPress</a> &amp; <a href="//html5blank.com" title="HTML5 Blank">HTML5 Blank</a>.
 				</p>
+				<p><h3>Bitwise</h3><br/><h3>700 Van Ness Ave.</h3><br/><h3>Fresno California</h3></p>
 				<!-- /copyright -->
 
 			</footer>
