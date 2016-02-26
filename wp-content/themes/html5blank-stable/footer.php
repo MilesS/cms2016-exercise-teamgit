@@ -10,7 +10,7 @@
 				</p>
 				<p><h3>Bitwise</h3><br/><h3>700 Van Ness Ave.</h3><br/><h3>Fresno California</h3></p>
 				<!-- /copyright -->
-
+				<p>559-500-3305</p>
 			</footer>
 			<!-- /footer -->
 
