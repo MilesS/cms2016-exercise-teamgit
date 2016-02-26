@@ -14,7 +14,7 @@
 
 		<?php
 function wp_intro_stlye() {
-    wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/wp_test.css' ); 
+    wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/wp_test.css' );
 }
 add_action( 'wp_enqueue_scripts', 'wp_intro_stlye' );
 	?>
@@ -44,6 +44,11 @@ add_action( 'wp_enqueue_scripts', 'wp_intro_stlye' );
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
 							<img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt="Logo" class="logo-img">
 						</a>
+						<!-- GITHUB CAT LOGO -->
+						<a href="<?php echo home_url(); ?>">
+							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
+							<img src="<?php echo get_template_directory_uri(); ?>/img/GitHub-Mark.png" alt="Logo" class="logo-img">
+						</a>
 					</div>
 					<!-- /logo -->
 
@@ -52,6 +57,12 @@ add_action( 'wp_enqueue_scripts', 'wp_intro_stlye' );
 						<?php html5blank_nav(); ?>
 					</nav>
 					<!-- /nav -->
+
+				<!--  Phone number-->
+				<p>
+					Nic Cage's Hollywood Agent 424-288-2000
+				</p>
+				<!--  End Phone Number-->
 
 			</header>
 			<!-- /header -->
