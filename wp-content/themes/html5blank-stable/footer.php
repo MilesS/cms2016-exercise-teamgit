@@ -8,6 +8,7 @@
 					<br>
 					<img src="http://i.imgur.com/dmqFG.png" alt="Do you even Cage?">
 				</p>
+				<p><h3>Bitwise</h3><br/><h3>700 Van Ness Ave.</h3><br/><h3>Fresno California</h3></p>
 				<!-- /copyright -->
 
 			</footer>
