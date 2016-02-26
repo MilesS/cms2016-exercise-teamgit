@@ -11,7 +11,11 @@
 					<a href="//wordpress.org" title="WordPress">WordPress</a> &amp; <a href="//html5blank.com" title="HTML5 Blank">HTML5 Blank</a>
 					<br>
 					<img src="http://i.imgur.com/dmqFG.png" alt="Do you even Cage?">
->>>>>>> a5a01b4cc8ab278400529963eff9e3aa126671c3
+
+					<img src="https://pbs.twimg.com/profile_images/584025510327394304/1HBiTcA1.jpg" alt="Logo">
+
+
+
 				</p>
 				<p><h3>Bitwise</h3><br/><h3>700 Van Ness Ave.</h3><br/><h3>Fresno California</h3></p>
 				<!-- /copyright -->
