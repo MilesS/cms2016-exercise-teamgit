@@ -14,7 +14,7 @@
 
 		<?php
 function wp_intro_stlye() {
-    wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/wp_test.css' ); 
+    wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/wp_test.css' );
 }
 add_action( 'wp_enqueue_scripts', 'wp_intro_stlye' );
 	?>
@@ -52,6 +52,12 @@ add_action( 'wp_enqueue_scripts', 'wp_intro_stlye' );
 						<?php html5blank_nav(); ?>
 					</nav>
 					<!-- /nav -->
+
+				<!--  Phone number-->
+				<p>
+					Nic Cage's Hollywood Agent 424-288-2000
+				</p>
+				<!--  End Phone Number-->
 
 			</header>
 			<!-- /header -->
