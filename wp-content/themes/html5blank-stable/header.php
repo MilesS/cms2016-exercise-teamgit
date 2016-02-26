@@ -12,6 +12,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="<?php bloginfo('description'); ?>">
 
+		<?php
+function wp_intro_stlye() {
+    wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/wp_test.css' ); 
+}
+add_action( 'wp_enqueue_scripts', 'wp_intro_stlye' );
+	?>
+
 		<?php wp_head(); ?>
 		<script>
         // conditionizr.com
