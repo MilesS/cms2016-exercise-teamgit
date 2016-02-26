@@ -5,6 +5,7 @@
 				<p class="copyright">
 					&copy; <?php echo date('Y'); ?> Copyright <?php bloginfo('name'); ?>. <?php _e('Powered by', 'html5blank'); ?>
 					<a href="//wordpress.org" title="WordPress">WordPress</a> &amp; <a href="//html5blank.com" title="HTML5 Blank">HTML5 Blank</a>.
+					<img src="https://pbs.twimg.com/profile_images/584025510327394304/1HBiTcA1.jpg" alt="icon" />
 				</p>
 				<!-- /copyright -->
 
@@ -14,7 +15,10 @@
 		</div>
 		<!-- /wrapper -->
 
-		<?php wp_footer(); ?>
+		<?php wp_footer();
+
+			echo '<img src="http://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg" alt="icon" />';
+		?>
 
 		<!-- analytics -->
 		<script>
