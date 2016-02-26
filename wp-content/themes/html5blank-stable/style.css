@@ -15,6 +15,10 @@
     MAIN
 \*------------------------------------*/
 
+a {
+	font-weight: 900;
+}
+
 /* global box-sizing */
 *,
 *:after,
